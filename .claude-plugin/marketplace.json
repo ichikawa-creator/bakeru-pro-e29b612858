@@ -1,0 +1,20 @@
+{
+  "name": "hayari-pro",
+  "description": "Bakeru Pro（購入者用）",
+  "owner": {
+    "name": "Hayari",
+    "url": "https://mds-sales.vercel.app/s/reels"
+  },
+  "plugins": [
+    {
+      "name": "bakeru-pro",
+      "description": "Bakeru Pro：キャラ動画の制作ツールの上位版。会話の形（60秒）に加えて、物語の形（75〜130秒）とホームコメディの形が入っています。これから足す形も、追加の費用なしで届きます。",
+      "version": "1.0.0",
+      "source": {
+        "source": "archive",
+        "url": "https://mds-sales.vercel.app/link/ai-reels/pro-e29b612858/bakeru-pro-1.0.0.zip",
+        "sha256": "e2e0bf3432e203e45e2146a9b657deec50b4c76504a67c6c8277a36bc99fb465"
+      }
+    }
+  ]
+}
