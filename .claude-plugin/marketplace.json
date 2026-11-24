@@ -9,11 +9,11 @@
     {
       "name": "bakeru-pro",
       "description": "Bakeru Pro：キャラ動画の制作ツールの上位版。会話の形（60秒）に加えて、物語の形（75〜130秒）とホームコメディの形が入っています。これから足す形も、追加の費用なしで届きます。",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "source": {
         "source": "archive",
-        "url": "https://mds-sales.vercel.app/link/ai-reels/pro-e29b612858/bakeru-pro-1.0.5.zip",
-        "sha256": "9a053a01f6479e03ed01490747382236968b3a549fe7c96f9471c85b8ac53ad0"
+        "url": "https://mds-sales.vercel.app/link/ai-reels/pro-e29b612858/bakeru-pro-1.0.6.zip",
+        "sha256": "0d2d09d8e4f80803753ff30e9f459152f273598ee55f2c883eff820a8d8008ed"
       }
     }
   ]
